@@ -8,6 +8,9 @@ This project counts the number of cars passing through a designated line in a vi
 - Implements morphological transformations for noise reduction.
 - Displays real-time video with detected vehicles and count overlay.
 
+## Ouput 
+https://github.com/user-attachments/assets/3a45b616-957d-46b6-bacc-bc766f68aa3a
+
 ## Requirements
 Ensure you have the following installed:
 - Python 3.x.x
